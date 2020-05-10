@@ -1,5 +1,0 @@
-diff a/config-dev.yml b/config-dev.yml	(rejected hunks)
-@@ -0 +0,2 @@
- config:1
-+info:1
-\ No newline at end of file
